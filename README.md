@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0D1117&height=180&section=header&text=&fontSize=0" width="100%" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Rehman+Chaudhary;Robotics+%26+AI+Undergrad;Building+Autonomous+Systems;pwd+%3E+%2Fhome%2Frehman%2Fportfolio" alt="Typing SVG" />
 </h1>
@@ -27,7 +31,9 @@ rehman@github:~$ cat mission.md
 
 I build end-to-end systems across embedded robotics, AI automation, and cloud-deployed applications — taking each one from prototype to a working, documented artifact.
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header" width="100%" />
+</p>
 
 ```bash
 rehman@github:~$ cat stack.json
@@ -56,7 +62,9 @@ rehman@github:~$ cat stack.json
 
 *Grouped by domain on purpose — a wall of 15 badges tells you nothing about what I'm actually strong at.*
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header" width="100%" />
+</p>
 
 ```bash
 rehman@github:~$ ls ./featured-builds/
@@ -73,7 +81,7 @@ Extensible personal agent with real LLM tool-calling (Groq), starting with auton
 </td>
 <td width="50%">
 
-**📧 [AI Email Automation](https://github.com/Rehmanchaudhary/Ai-email-automation)** — *live demo, try it*
+**📧 [AI Email Automation](https://github.com/Rehmanchaudhary/Ai-email-automation)** — [🚀 Live Demo](https://ai-email-automation-w6e4.onrender.com)
 Autonomous AI email assistant that reads, classifies, and responds to real emails — cloud-deployed and testable right now.
 `Python` `Automation`
 
@@ -125,7 +133,9 @@ Full schematic and PCB layout for an Arduino Nano–compatible board, designed i
 </tr>
 </table>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header" width="100%" />
+</p>
 
 ```bash
 rehman@github:~$ ./run_stats.sh
@@ -144,7 +154,9 @@ rehman@github:~$ ./run_stats.sh
   <img src="https://github-profile-trophy.vercel.app/?username=Rehmanchaudhary&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&row=1" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header" width="100%" />
+</p>
 
 ```bash
 rehman@github:~$ cat contact.txt
@@ -164,3 +176,7 @@ rehman@github:~$ cat contact.txt
 <pre align="center">
 $ echo "thanks for stopping by — now go build something."
 </pre>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:000000&height=120&section=footer" width="100%" />
+</p>
