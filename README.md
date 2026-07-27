@@ -90,7 +90,7 @@ Autonomous AI email assistant that reads, classifies, and responds to real email
 <tr>
 <td width="50%">
 
-**💱 [Currency ISO Explorer Dashboard](https://github.com/Rehmanchaudhary/currency-explorer-dashboard-xd)** — *live demo*
+**💱 [Currency ISO Explorer Dashboard](https://github.com/Rehmanchaudhary/currency-explorer-dashboard-xd)** — [🚀 Live Demo](https://currency-explorer-dashboard-xd-weq2n8zfxsydq9pv5hsfuz.streamlit.app/)
 Interactive Streamlit dashboard exploring ISO 4217 world currency data.
 `Python` `Streamlit` `Plotly`
 
