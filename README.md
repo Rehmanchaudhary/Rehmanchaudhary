@@ -1,182 +1,33 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0D1117&height=180&section=header&text=&fontSize=0" width="100%" />
-</p>
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/rehman-chaudhary-378698380/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:rehmanchaudhary1975@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="mailto:70177702@student.uol.edu.pk" target="_blank"> <img src="https://img.shields.io/badge/University_Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="University Email"/> </a> <a href="http://13.127.122.236/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> </a> <a href="https://currency-explorer-dashboard-xd-weq2n8zfxsydq9pv5hsfuz.streamlit.app/" target="_blank"> <img src="https://img.shields.io/badge/Live_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Dashboard"/> </a> <a href="https://github.com/Rehmanchaudhary" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
+<!-- TECH STACK -->
+🛠️ Tech Stack
+💻 Languages
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/> </p>
+🤖 AI / ML / Data
+<p align="center"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> <img src="https://img.shields.io/badge/Groq_LLM-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/> </p>
+🌐 Web & Dashboards
+<p align="center"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> </p>
+🤖 Robotics & Embedded
+<p align="center"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/> <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/> <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/> </p>
+🧰 Tools & Platforms
+<p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> </p>
+<!-- FEATURED PROJECTS -->
+🚀 Featured Projects
+<p align="center"> <a href="https://github.com/Rehmanchaudhary/Aegis-Agent"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rehmanchaudhary&repo=Aegis-Agent&theme=tokyonight&show_owner=true" alt="Aegis Agent"/> </a> <a href="https://github.com/Rehmanchaudhary/Ai-email-automation"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rehmanchaudhary&repo=Ai-email-automation&theme=tokyonight&show_owner=true" alt="AI Email Automation"/> </a> <a href="https://github.com/Rehmanchaudhary/currency-explorer-dashboard-xd"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rehmanchaudhary&repo=currency-explorer-dashboard-xd&theme=tokyonight&show_owner=true" alt="Currency Explorer Dashboard"/> </a> <a href="https://github.com/Rehmanchaudhary/maze-line-follower-robot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rehmanchaudhary&repo=maze-line-follower-robot&theme=tokyonight&show_owner=true" alt="Maze Line Follower Robot"/> </a> </p>
+<!-- GITHUB STATS -->
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rehmanchaudhary&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&border_radius=10" alt="GitHub Stats" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehmanchaudhary&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8" alt="Top Languages" height="180"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehmanchaudhary&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" /> </p> <!-- CONTRIBUTION GRAPH --> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rehmanchaudhary&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" /> </p> <!-- TROPHY --> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Rehmanchaudhary&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" /> </p>
+<!-- CERTIFICATIONS -->
+🏆 Certifications
+<p align="center"> <img src="https://img.shields.io/badge/Introduction_to_AI-uniAthena-4CAF50?style=for-the-badge&logo=gradleplayground&logoColor=white" alt="Intro to AI"/> <img src="https://img.shields.io/badge/Machine_Learning_with_Python-uniAthena-2196F3?style=for-the-badge&logo=python&logoColor=white" alt="ML with Python"/> <img src="https://img.shields.io/badge/Data_Science_Fundamentals-uniAthena-FF9800?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Data Science"/> <img src="https://img.shields.io/badge/Robotics_Process_Automation-uniAthena-9C27B0?style=for-the-badge&logo=robot-framework&logoColor=white" alt="RPA"/> <img src="https://img.shields.io/badge/Deep_Learning_Essentials-uniAthena-F44336?style=for-the-badge&logo=brain&logoColor=white" alt="Deep Learning"/> <img src="https://img.shields.io/badge/Internet_of_Things-uniAthena-00BCD4?style=for-the-badge&logo=home-assistant&logoColor=white" alt="IoT"/> <img src="https://img.shields.io/badge/Python_for_Data_Science-uniAthena-8BC34A?style=for-the-badge&logo=python&logoColor=white" alt="Python DS"/> <img src="https://img.shields.io/badge/Natural_Language_Processing-uniAthena-E91E63?style=for-the-badge&logo=google-translate&logoColor=white" alt="NLP"/> <img src="https://img.shields.io/badge/Computer_Vision_Basics-uniAthena-FF5722?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/> <img src="https://img.shields.io/badge/Neural_Networks-uniAthena-673AB7?style=for-the-badge&logo=ai&logoColor=white" alt="Neural Networks"/> </p>
+🎓 All certificates earned through
+uniAthena
+— Free accredited courses in AI, Data Science & Robotics
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Rehman+Chaudhary;Robotics+%26+AI+Undergrad;Building+Autonomous+Systems;pwd+%3E+%2Fhome%2Frehman%2Fportfolio" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/root@rehman-000000?style=for-the-badge&logo=linux&logoColor=39FF14&labelColor=000000" />
-  <img src="https://img.shields.io/badge/status-compiling_the_future-39FF14?style=for-the-badge&labelColor=000000" />
-</p>
-
-```bash
-rehman@github:~$ whoami
-```
-
-```
-> BS Robotics & Artificial Intelligence — University of Lahore
-> Merit Scholar | Class of 2028
-> Based in Gujranwala, Punjab, PK
-> Currently shipping: Aegis (AI Agent) + AI Email Automation
-> Focus: AI automation, AI agents, Python systems, autonomous robotics
-```
-
-<br>
-
-```bash
-rehman@github:~$ cat mission.md
-```
-
-I build end-to-end systems across embedded robotics, AI automation, and cloud-deployed applications — taking each one from prototype to a working, documented artifact.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header" width="100%" />
-</p>
-
-```bash
-rehman@github:~$ cat stack.json
-```
-
-**Embedded & Hardware**
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2FC++-000000?style=flat-square&logo=cplusplus&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/Arduino-000000?style=flat-square&logo=arduino&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/PCB%20Design-000000?style=flat-square&logo=kicad&logoColor=39FF14" />
-</p>
-
-**AI / Software**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/Groq-000000?style=flat-square&logo=lightning&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=39FF14" />
-</p>
-
-**Infra & Web**
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux%2FBash-000000?style=flat-square&logo=gnubash&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/AWS%20S3-000000?style=flat-square&logo=amazonaws&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-000000?style=flat-square&logo=javascript&logoColor=39FF14" />
-</p>
-
-*Grouped by domain on purpose — a wall of 15 badges tells you nothing about what I'm actually strong at.*
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header" width="100%" />
-</p>
-
-```bash
-rehman@github:~$ ls ./featured-builds/
-```
-
-<table>
-<tr>
-<td width="50%">
-
-**🤖 [Aegis — AI Agent Framework](https://github.com/Rehmanchaudhary/Aegis-Agent)**
-Extensible personal agent with real LLM tool-calling (Groq), starting with autonomous freelance lead evaluation.
-`Python` `Groq` `Tool-Calling`
-
-</td>
-<td width="50%">
-
-**📧 [AI Email Automation](https://github.com/Rehmanchaudhary/Ai-email-automation)** — [🚀 Live Demo](https://ai-email-automation-w6e4.onrender.com)
-Autonomous AI email assistant that reads, classifies, and responds to real emails — cloud-deployed and testable right now.
-`Python` `Automation`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**💱 [Currency ISO Explorer Dashboard](https://github.com/Rehmanchaudhary/currency-explorer-dashboard-xd)** — [🚀 Live Demo](https://currency-explorer-dashboard-xd-weq2n8zfxsydq9pv5hsfuz.streamlit.app/)
-Interactive Streamlit dashboard exploring ISO 4217 world currency data.
-`Python` `Streamlit` `Plotly`
-
-</td>
-<td width="50%">
-
-**🚗 [Gesture & Bluetooth-Controlled Robot Car](https://github.com/Rehmanchaudhary/gesture-bluetooth-robot-car)**
-Arduino Uno + HC-05 + L298N — real-time gesture and voice-based motor control.
-`Arduino` `Bluetooth` `Embedded`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🅿️ [Autonomous Car Parking Robot](https://github.com/Rehmanchaudhary/autonomous-parking-robot)**
-Self-navigating robot that detects an open parking space and reverses into it autonomously.
-`Ultrasonic Sensing` `Servo Control`
-
-</td>
-<td width="50%">
-
-**🧭 [Maze Solver + Line Follower Robot](https://github.com/Rehmanchaudhary/maze-line-follower-robot)**
-Left-hand wall-following algorithm for autonomous maze navigation.
-`Sensors` `Control Systems`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🧩 [Custom PCB Design — Arduino Nano Clone](https://github.com/Rehmanchaudhary/custom-pcb-design)**
-Full schematic and PCB layout for an Arduino Nano–compatible board, designed in KiCad and physically etched and soldered.
-`KiCad` `PCB Design` `Hardware`
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header" width="100%" />
-</p>
-
-```bash
-rehman@github:~$ ./run_stats.sh
-```
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rehmanchaudhary&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rehmanchaudhary&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehmanchaudhary&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rehmanchaudhary&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&row=1" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header" width="100%" />
-</p>
-
-```bash
-rehman@github:~$ cat contact.txt
-```
-
-<p align="center">
-  <a href="https://github.com/Rehmanchaudhary"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14" /></a>
-  <!-- swap in your LinkedIn / portfolio / email links below -->
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=39FF14" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rehmanchaudhary&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS&labelColor=000000" />
-</p>
-
-<pre align="center">
-$ echo "thanks for stopping by — now go build something."
-</pre>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:000000&height=120&section=footer" width="100%" />
-</p>
+<!-- EDUCATION -->
+🎓 Education
+<p align="center"> <img src="https://img.shields.io/badge/BS%20Robotics%20%26%20AI-University%20of%20Lahore-1a237e?style=for-the-badge&logo=gradleplayground&logoColor=white" alt="Degree"/> </p> <p align="center"> <b>University of Lahore (UOL)</b><br> Bachelor of Science in Robotics & Artificial Intelligence<br> <i>Focus Areas: AI Automation, Machine Learning, Embedded Systems, Data Analytics</i> </p>
+<!-- SNAKE ANIMATION --> <p align="center"> <img src="https://raw.githubusercontent.com/Rehmanchaudhary/Rehmanchaudhary/output/github-contribution-grid-snake.svg" alt="Snake Animation" /> </p>
+<!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Made_with_❤️_by-Abdul_Rehman-FF0000?style=for-the-badge" alt="Made with Love"/> </p> <p align="center"> <i>💬 "The best way to predict the future is to invent it." — Alan Kay</i> </p>
+<p align="center"> <a href="https://github.com/Rehmanchaudhary"> <img src="https://img.shields.io/badge/⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful!-yellow?style=for-the-badge" alt="Star Repos"/> </a> </p> ```
